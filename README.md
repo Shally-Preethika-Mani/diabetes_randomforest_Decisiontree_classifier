@@ -37,6 +37,7 @@ About the Dataset:
 The dataset consists of 768 rows and 9 columns.
 
 If you have any queries regarding anything. (Even silly doubts will also be appreciated)
-please do mail to shallypreethika1729@gmail.com
+
+Please do mail to shallypreethika1729@gmail.com
 
 Let's learn and grow together !!!!!
